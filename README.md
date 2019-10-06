@@ -1,4 +1,4 @@
-# Lead Manager
+# Python_Django_React
 
 > Full stack Django/React/Redux app that uses token based authentication with Knox.
 
@@ -17,4 +17,4 @@ npm run dev
 # Build for production
 npm run build
 ```
-# Python_Django_React
+
