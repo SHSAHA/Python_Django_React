@@ -1,20 +1,20 @@
 # Python_Django_React
 
-> Full stack Django/React/Redux app that uses token based authentication with Knox.
+> Full-stack Django_React_Redux app that uses token based authentication with Knox.
 
 ## Quick Start
 
 ```bash
-# Install dependencies
+1. Install dependencies
 npm install
 
-# Serve API on localhost:8000
+2. Serve API on localhost:8000
 python leadmanager/manage.py runserver
 
-# Run webpack (from root)
+3. Run webpack (from root)
 npm run dev
 
-# Build for production
+4. Build for production
 npm run build
 ```
 
